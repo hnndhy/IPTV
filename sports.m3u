@@ -1,757 +1,443 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-http://bit.ly/TestadorIPTVVideoApresentacao
+#EXTINF:0, group-title="INDOTV",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/333ab38c530ee2781ea2b951d32dd786.png" group-title="SPORTS", (ONLINE) SPORT: BT Sport 1 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/120666
+#EXTINF:0, group-title="INDOTV",NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 2 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94771
+#EXTINF:0, group-title="INDOTV",NET TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 3 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94772
+#EXTINF:0, group-title="INDOTV",GLOBAL TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport ESPN FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94773
+#EXTINF:0, group-title="INDOTV",INDOSIAR 1
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 1 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/113209
+#EXTINF:0, group-title="INDOTV",MNCTV 2
+http://id2.indostreamingtv.com/live/event/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 2 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62752
+#EXTINF:0, group-title="INDOTV",RCTI 1
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 3 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/106852
+#EXTINF:0, group-title="INDOTV",RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 4 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62750
+#EXTINF:0, group-title="INDOTV",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 5 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62749
+#EXTINF:0, group-title="INDOTV",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports6.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 6 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62748
+#EXTINF:0, group-title="INDOTV",TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports7.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 7 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62747
+#EXTINF:0, group-title="INDOTV",TV ONE 2
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 8 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62746
+#EXTINF:0, group-title="INDOTV",SCTV 2
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports9.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 9 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62745
+#EXTINF:0, group-title="INDOTV",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports10.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 10 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62744
+#EXTINF:0, group-title="INDOTV",KOMPAS TV 1
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: BEIN SPORTS DIFFERENT [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/142666
+#EXTINF:0, group-title="RELIGION",MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 1 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/138216
+#EXTINF:0, group-title="RELIGION",MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 2 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/134765
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 3 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/134766
+#EXTINF:0, group-title="KIDS",ANIMAX ID
+http://biz2.xbin.us:888/dr9445/h/h18/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 4 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/134767
+#EXTINF:0, group-title="KIDS",ANIMAX MY
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29667?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 5 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/134768
+#EXTINF:0, group-title="KIDS",ANIPLUS ID
+http://biz2.xbin.us:888/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 6 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/138218
+#EXTINF:0, group-title="KIDS",ANIPLUS MY
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29669?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 7 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/138222
+#EXTINF:0, group-title="KIDS",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 8 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/138220
+#EXTINF:0, group-title="KIDS",CARTOON NETWORK
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29639?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 9 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/138221
+#EXTINF:0, group-title="KIDS",DISNEY XD
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29627?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 10 HEVC [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/138217
+#EXTINF:0, group-title="KIDS", DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS ACTION FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143548
+#EXTINF:0, group-title="KIDS",Disney Junior
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29628?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS ARENA FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143546
+#EXTINF:0, group-title="KIDS",FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS CRICKET FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143547
+#EXTINF:0, group-title="KIDS",My KIDS
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS F1 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143549
+#EXTINF:0, group-title="KIDS", KIDS JR
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS FOOTBALL FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143550
+#EXTINF:0, group-title="KIDS",DAVINCI
+http://rr.dens.tv/h/h01/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS GOLF FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143551
+#EXTINF:0, group-title="MOVIE", & FLIX
+http://195.181.170.48:25461/amachongz@gmail.com/uRXMe6NlG0/29555?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS MAIN EVENT FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143552
+#EXTINF:0, group-title="MOVIE",& PRIVE
+http://195.181.170.48:25461/amachongz@gmail.com/uRXMe6NlG0/29543?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS MIX FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143553
+#EXTINF:0, group-title="MOVIE",AXN ID
+http://biz2.xbin.us:888/uq2663/h/h09/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS NEWS FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143554
+#EXTINF:0, group-title="MOVIE",AXN
+http://45.126.83.51/uq2663/h/h09/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKY SPORTS PREMIER LEAGUE FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/143555
+#EXTINF:0, group-title="MOVIE",DIVA ID
+http://biz2.xbin.us:888/uq2663/h/h11/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beoutQ 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/120964
+#EXTINF:0, group-title="MOVIE",DIVA ID
+http://210.210.155.35/session/d30b697c-050a-11e9-bf3d-b82a72d63267/dr9445/h/h11/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beoutQ 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/120965
+#EXTINF:0, group-title="MOVIE",FOX MOVIES PREMIUM HD MY
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29624?token=GkQJUBUMGwpAUFZUBQZSUgAABg8BAwlVAQ1WUVMOVVRWUwICAFAPAFcQTkQVREIABV08XlRDCgYLD1BXHRVBRQQUPlgCRgMSWwBSUV4CEklGRApaVUMKBQcNVFYCDgwOUUpDQQ8AGwpAA1pQVgUSSUZVG0NVE15VXmYGBkdeV1NDXA9ECggVEg1cPQIDXVELABJZFQFDHBZbShJBCxVkYkEyBF0NC1QQK1wGCQhVQwwFEk8VUghERlNNB0ELWUFaDUpDUgkRV0QQS0BcRHl0R0gSBk9EBF5HW1YMQQsVQEVDSkNYFTtLVRFGEAMHXVUXRgpBBxJNEllTQT0AXllaUwISCF4IFxsKQANASkRdXwsNRAxFbxFZUBADQFIJAgMFQxs=
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beoutQ 3 HD
-http://niobzca.cf:8080/francis1234/francis1234/131563
+#EXTINF:0, group-title="MOVIE",FOXLIFE HD MY
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29625?token=GkQJUBUMGwpAUQZQUlVTAQdSBQJSVAADV1xTWlABUAUCUQVVA1MOVFsQTkQVREIABV08XlRDCgYLD1BWHRVBRQQUPlgCRgMSWwBSUV4CEklGRApaVUMKBQcNVFYFBwACU0pDQQ8AGwpAA1ZVUAcSSUZVG0NVE15VXmYGBkdeV1NDXA9ECggVEg1cPQIDXVELABJZFQFDHBZbShJBCxVkYkEyBF0NC1QQK1wGCQhVQwwFEk8VUghERlNNB0ELWUFaDUpDUgkRV0QQS0BcRHl0R0gSBk9EBF5HW1YMQQsVQEVDSkNYFTtLVRFGEAMHXVUXRgpBBxJNEllTQT0AXllaUwISCF4IFxsKQANASkRdXwsNRAxFbxFZUBADQFIFBAcPQxs=
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beoutQ 4 HD
-http://niobzca.cf:8080/francis1234/francis1234/131564
+#EXTINF:0, group-title="MOVIE",FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (ONLINE) SPORT: beoutQ 5 HD
-http://niobzca.cf:8080/francis1234/francis1234/131565
+#EXTINF:0, group-title="MOVIE", FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beoutQ 6 HD
-http://niobzca.cf:8080/francis1234/francis1234/131566
+#EXTINF:0, group-title="MOVIE",FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beOutQ 7 HD
-http://niobzca.cf:8080/francis1234/francis1234/136404
+#EXTINF:0, group-title="MOVIE",FOX ACTION MOVIES
+http://103.242.13.90:5555/udp/239.4.1.72:10000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beoutQ 8 HD
-http://niobzca.cf:8080/francis1234/francis1234/140936
+#EXTINF:0, group-title="MOVIE",FOX LIFE
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beoutQ 9 HD
-http://niobzca.cf:8080/francis1234/francis1234/140937
+#EXTINF:0, group-title="MOVIE",FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS HD (US)
-http://niobzca.cf:8080/francis1234/francis1234/77121
+#EXTINF:0, group-title="MOVIE",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: FOX Sports 1
-http://niobzca.cf:8080/francis1234/francis1234/142789
+#EXTINF:0, group-title="MOVIE",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: FOX Sports 2
-http://niobzca.cf:8080/francis1234/francis1234/142790
+#EXTINF:0, group-title="MOVIE",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: FOX Sports 3
-http://niobzca.cf:8080/francis1234/francis1234/142791
+#EXTINF:0, group-title="MOVIE",HBO HOME
+http://109.248.236.41:4433/udp/238.1.1.71:1234
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: FOX Sports 4
-http://niobzca.cf:8080/francis1234/francis1234/142792
+#EXTINF:0, group-title="MOVIE",WARNER
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29588?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/62225
+#EXTINF:0, group-title="MOVIE",DREAM WORKS
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29670?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/62224
+#EXTINF:0, group-title="MOVIE",FX
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29619?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 3 HD
-http://niobzca.cf:8080/francis1234/francis1234/143562
+#EXTINF:0, group-title="MOVIE",Paramount Channel
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29601?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport ESPN HD
-http://niobzca.cf:8080/francis1234/francis1234/93488
+#EXTINF:0, group-title="MOVIE",Sony Entertainment
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29671?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport Europe
-http://niobzca.cf:8080/francis1234/francis1234/127144
+#EXTINF:0, group-title="MOVIE",BLUE ANT EXTREME ID
+http://biz2.xbin.us:888/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX2.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport Extra 2
-http://niobzca.cf:8080/francis1234/francis1234/105180
+#EXTINF:0, group-title="MOVIE",Blue Ant Entertainment
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29642?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportX4.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport Extra 4
-http://niobzca.cf:8080/francis1234/francis1234/96511
+#EXTINF:0, group-title="MOVIE",ENTERTAINMENT ID
+http://rr.dens.tv/h/h10/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports 6 Max FHD
-http://niobzca.cf:8080/francis1234/francis1234/136167
+#EXTINF:0, group-title="MOVIE",SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Espana
-http://niobzca.cf:8080/francis1234/francis1234/142786
+#EXTINF:0, group-title="MOVIE",THRILL
+http://biz2.xbin.us:888/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD
-http://niobzca.cf:8080/francis1234/francis1234/94397
+#EXTINF:0, group-title="MOVIE",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 1
-http://niobzca.cf:8080/francis1234/francis1234/62751
+#EXTINF:0, group-title="MOVIE", CINEMA WORLD
+http://local2.bloggue.work/uq2663/h/h04/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 2
-http://niobzca.cf:8080/francis1234/francis1234/77965
+#EXTINF:0, group-title="MOVIE",  CINEMA WORLD
+http://210.210.155.35/uq2663/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 3
-http://niobzca.cf:8080/francis1234/francis1234/77963
+#EXTINF:0, group-title="MOVIE",KIX (Asia)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 4
-http://niobzca.cf:8080/francis1234/francis1234/77961
+#EXTINF:0, group-title="MOVIE",HITS ID
+http://biz2.xbin.us:888/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 5
-http://niobzca.cf:8080/francis1234/francis1234/77959
+#EXTINF:0, group-title="MOVIE", HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 6
-http://niobzca.cf:8080/francis1234/francis1234/77957
+#EXTINF:0, group-title="MOVIE",CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/6e8b8a6505830bd2500333f84f9b69a4.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 7
-http://niobzca.cf:8080/francis1234/francis1234/77955
+#EXTINF:0, group-title="MOVIE",Star Chinese Movies [ HD ]
+http://60.250.69.26:8080/live/startmovie89.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 8
-http://niobzca.cf:8080/francis1234/francis1234/77953
+#EXTINF:0, group-title="MOVIE","USA",Movee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 9
-http://niobzca.cf:8080/francis1234/francis1234/77952
+#EXTINF:0, group-title="MOVIE",ENTERTAINMENT ID
+http://210.210.155.35/session/fc8d851c-0598-11e9-90c8-c81f66f89318/dr9445/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports10.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 10
-http://niobzca.cf:8080/francis1234/francis1234/78936
+#EXTINF:0, group-title="MOVIE",TVN MOVIE
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29589?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 11
-http://niobzca.cf:8080/francis1234/francis1234/74643
+#EXTINF:0, group-title="MOVIE",Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 12
-http://niobzca.cf:8080/francis1234/francis1234/62742
+#EXTINF:0, group-title="MOVIE",Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 13
-http://niobzca.cf:8080/francis1234/francis1234/97054
+#EXTINF:0, group-title="MOVIE",Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (ONLINE) SPORT: beIN Sports HD 14
-http://niobzca.cf:8080/francis1234/francis1234/131558
+#EXTINF:0, group-title="MOVIE",Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 15
-http://niobzca.cf:8080/francis1234/francis1234/131559
+#EXTINF:0, group-title="MOVIE", MOVIES HOLLYWOOD 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 16
-http://niobzca.cf:8080/francis1234/francis1234/136173
+#EXTINF:0, group-title="MOVIE", Movies 2
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 1
-http://niobzca.cf:8080/francis1234/francis1234/137714
+#EXTINF:0, group-title="MOVIE", Movies 3
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 2
-http://niobzca.cf:8080/francis1234/francis1234/106577
+#EXTINF:0, group-title="MOVIE", Movies 4
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 4
-http://niobzca.cf:8080/francis1234/francis1234/137715
+#EXTINF:0, group-title="MOVIE", Movies 5
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 5
-http://niobzca.cf:8080/francis1234/francis1234/100285
+#EXTINF:0, group-title="MOVIE",SONY ONE
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29596?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 6
-http://niobzca.cf:8080/francis1234/francis1234/100286
+#EXTINF:0, group-title="MOVIE",SONY SETMAX
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29672?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 7
-http://niobzca.cf:8080/francis1234/francis1234/100287
+#EXTINF:0, group-title="MOVIE",HR=E
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29782?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 8
-http://niobzca.cf:8080/francis1234/francis1234/100288
+#EXTINF:0, group-title="MOVIE",M HD
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29744?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 9
-http://niobzca.cf:8080/francis1234/francis1234/100289
+#EXTINF:0, group-title="MOVIE",WWE HD
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29587?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports Max 10
-http://niobzca.cf:8080/francis1234/francis1234/100290
+#EXTINF:0, group-title="MOVIE",Sony Channel
+http://45.126.83.51/uq2663/h/h06/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports News HD
-http://niobzca.cf:8080/francis1234/francis1234/62754
+#EXTINF:0, group-title="MOVIE",SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sportss HD 1
-http://niobzca.cf:8080/francis1234/francis1234/142783
+#EXTINF:0, group-title="MOVIE",SONY ONE ID
+http://biz2.xbin.us:888/uq2663/h/h13/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Action FHD
-http://niobzca.cf:8080/francis1234/francis1234/128428
+#EXTINF:0, group-title="MOVIE",SONY CHANNEL
+http://biz2.xbin.us:888/uq2663/h/h06/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Arena FHD
-http://niobzca.cf:8080/francis1234/francis1234/93234
+#EXTINF:0, group-title="MOVIE",SONY ONE MY
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29596?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Cricket FHD
-http://niobzca.cf:8080/francis1234/francis1234/74772
+#EXTINF:0, group-title="MOVIE",KPLUS
+http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 2 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94771
+#EXTINF:0, group-title="MOVIE",K-Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 3 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94772
+#EXTINF:0, group-title="INDOTV",THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport ESPN FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94773
+#EXTINF:0, group-title="MOVIE",JGo
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 1 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/113209
+#EXTINF:0, group-title="MOVIE",MY CINEMA ID
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 2 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62752
+#EXTINF:0, group-title="DISCOVERY",HISTORY ENG
+http://portal.geniptv.com:8080/oaX5Qjwt9A/4wIGQFLRrG/10861
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 3 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/106852
+#EXTINF:0, group-title="DISCOVERY",NATIONAL GEOGRAPICH HD MY
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29609?token=GkQJUBUMGwpABlRTBAVUUVcFU1QDBFINUQ0HAFMPBQZXUFJVB10NAAYQTkQVREIABV08XlRDCgYLD1JaHRVBRQQUPlgCRgMSWwBSUV4CEklGRApaVUMKBQcNVFYFBw0CUkpDQQ8AGwpAA1BWUQMSSUZVG0NVE15VXmYGBkdeV1NDXA9ECggVEg1cPQIDXVELABJZFQFDHBZbShJBCxVkYkEyBF0NC1QQK1wGCQhVQwwFEk8VUghERlNNB0ELWUFaDUpDUgkRV0QQS0BcRHl0R0gSBk9EBF5HW1YMQQsVQEVDSkNYFTtLVRFGEAMHXVUXRgpBBxJNEllTQT0AXllaUwISCF4IFxsKQANASkRdXwsNRAxFbxFZUBADQFIDBwcBQxs=
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 4 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62750
+#EXTINF:0, group-title="DISCOVERY",DISCOVERY SCIENCE
+http://80.80.160.168/live/9/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 5 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62749
+#EXTINF:0, group-title="DISCOVERY",DISCOVERY
+http://80.80.160.168/live/8/2500000/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports6.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 6 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62748
+#EXTINF:0, group-title="DISCOVERY",INVESTIGATION DISCOVERY
+http://80.80.160.168/live/5/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports 3 Action HD
-http://niobzca.cf:8080/francis1234/francis1234/127824
+#EXTINF:0, group-title="DISCOVERY",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports 4 Golf HD
-http://niobzca.cf:8080/francis1234/francis1234/127825
+#EXTINF:0, group-title="DISCOVERY",Animal Planet HD
+http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Action HD
-http://niobzca.cf:8080/francis1234/francis1234/74496
+#EXTINF:0, group-title="DISCOVERY",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Arena HD
-http://niobzca.cf:8080/francis1234/francis1234/74495
+#EXTINF:0, group-title="Music",MTV
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29611?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Box Office HD
-http://niobzca.cf:8080/francis1234/francis1234/128429
+#EXTINF:0, group-title="Music",B4U MUSIC
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w150564584.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Cricket HD
-http://niobzca.cf:8080/francis1234/francis1234/74492
+#EXTINF:0, group-title="Music",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports F1 HD
-http://niobzca.cf:8080/francis1234/francis1234/74497
+#EXTINF:0, group-title="Music",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (ONLINE) SPORT: Sky Sports Football HD
-http://niobzca.cf:8080/francis1234/francis1234/65085
+#EXTINF:0, group-title="Music",MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Golf HD
-http://niobzca.cf:8080/francis1234/francis1234/74770
+#EXTINF:0, group-title="Music",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Main Event HD
-http://niobzca.cf:8080/francis1234/francis1234/74486
+#EXTINF:0, group-title="Music",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Mix HD
-http://niobzca.cf:8080/francis1234/francis1234/98196
+#EXTINF:0, group-title="Music",CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports News HD
-http://niobzca.cf:8080/francis1234/francis1234/91401
+#EXTINF:0, group-title="Music",ONE
+http://rtmp.one.by:1300
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports News HQ HD
-http://niobzca.cf:8080/francis1234/francis1234/93230
+#EXTINF:0, group-title="Music",Music Channel
+http://stream.1music.hu/stream/1music.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports P/L HD
-http://niobzca.cf:8080/francis1234/francis1234/127827
+#EXTINF:0, group-title="Music",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports Premier League HD
-http://niobzca.cf:8080/francis1234/francis1234/65083
+#EXTINF:0, group-title="Music",Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sports The Open HD
-http://niobzca.cf:8080/francis1234/francis1234/93236
+#EXTINF:0, group-title="NEWS",ALJAZEERA
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Abu Dhabi Sports 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/138750
+#EXTINF:0, group-title="NEWS",Aljazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Abu Dhabi Sports 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/138751
+#EXTINF:0, group-title="NEWS",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Abu Dhabi Sports 3 HD
-http://niobzca.cf:8080/francis1234/francis1234/143737
+#EXTINF:0, group-title="SPORT",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Abu Dhabi Sports 4 HD
-http://niobzca.cf:8080/francis1234/francis1234/143738
+#EXTINF:0, group-title="SPORT",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: AD Sports 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/134770
+#EXTINF:0, group-title="SPORT",ASTRO SPORT
+http://103.242.13.90:5555/udp/239.4.1.148:10000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: AD Sports 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/134771
+#EXTINF:0, group-title="SPORT",ESPN
+http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: AD Sports 3 HD
-http://niobzca.cf:8080/francis1234/francis1234/134772
+#EXTINF:0, group-title="SPORT",ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: AD Sports 5 HD
-http://niobzca.cf:8080/francis1234/francis1234/134774
+#EXTINF:0, group-title="SPORT",FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: AD Sports 6 HD
-http://niobzca.cf:8080/francis1234/francis1234/134775
+#EXTINF:0, group-title="SPORT",FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ALKASS ONE HD
-http://niobzca.cf:8080/francis1234/francis1234/134777
+#EXTINF:0, group-title="SPORT",FOX SPORT 1
+http://45.58.62.92:8080
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ALKASS THREE HD
-http://niobzca.cf:8080/francis1234/francis1234/134779
+#EXTINF:0, group-title="SPORT",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 2 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94771
+#EXTINF:0, group-title="SPORT",MU TV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport 3 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94772
+#EXTINF:0, group-title="SPORT",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="SPORTS", (DOUBTFUL) SPORT: BT Sport ESPN FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/94773
+#EXTINF:0, group-title="SPORT",ESPN HD(USA)
+http://80.80.160.168/live/6/2500000/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 1 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/113209
+#EXTINF:0, group-title="LIFESTYLE",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 2 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62752
+#EXTINF:0, group-title="LIFESTYLE",FASHION TV MIDNITE
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 3 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/106852
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV MIDNIGHT" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="VARIETY",FASHION TV MIDNIGHT HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports4.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 4 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62750
+#EXTINF:0, group-title="LIFESTYLE",HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports5.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 5 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62749
+#EXTINF:0, group-title="LIFESTYLE",TLC
+http://80.80.160.168/live/2/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports6.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 6 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62748
+#EXTINF:0, group-title="LIFESTYLE",TLC
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29594?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports7.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 7 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62747
+#EXTINF:0, group-title="LIFESTYLE",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports8.us.png" group-title="SPORTS", (DOUBTFUL) SPORT: beIN Sports HD 8 FHD [VIP]
-http://niobzca.cf:8080/francis1234/francis1234/62746
+#EXTINF:0, group-title="LIFESTYLE",TRAVEL CHANNEL
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29593?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Canal+ Sport
-http://niobzca.cf:8080/francis1234/francis1234/142751
+#EXTINF:0, group-title="LIFESTYLE",HGTV
+http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29617?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Chelsea TV HD
-http://niobzca.cf:8080/francis1234/francis1234/65020
+#EXTINF:-1,Unknown 28
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Dawri Plus HD 1
-http://niobzca.cf:8080/francis1234/francis1234/131567
+#EXTINF:-1,Unknown 61
+http://80.80.160.168/live/3/500000/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Dawri Plus HD 2
-http://niobzca.cf:8080/francis1234/francis1234/131083
+#EXTINF:-1,Unknown 62
+http://80.80.160.168/live/4/500000/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (ONLINE) SPORT: Dawri Plus HD 3
-http://niobzca.cf:8080/francis1234/francis1234/131084
+#EXTINF:-1,Unknown 63
+http://80.80.160.168/live/5/500000/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Dawri Plus HD 4
-http://niobzca.cf:8080/francis1234/francis1234/131085
+#EXTINF:-1,Unknown 69
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Digi Sport 1
-http://niobzca.cf:8080/francis1234/francis1234/142761
+#EXTINF:-1,Unknown 71
+http://103.242.13.90:5555/udp/239.4.1.47:10000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Digi Sport 2
-http://niobzca.cf:8080/francis1234/francis1234/142762
+#EXTINF:-1,Unknown 72
+http://103.242.13.90:5555/udp/239.4.1.48:10000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Digi Sport 4
-http://niobzca.cf:8080/francis1234/francis1234/142764
+#EXTINF:-1,Unknown 73
+http://103.242.13.90:5555/udp/239.4.1.44:10000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Dolce Sport 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/126212
+#EXTINF:-1,Unknown 74
+http://103.242.13.90:5555/udp/239.4.1.108:10000
 
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c73a3255e4639e87ef98c9ccde81d729.jpg" group-title="SPORTS", (DOUBTFUL) SPORT: EirSport 1 FHD
-http://niobzca.cf:8080/francis1234/francis1234/132765
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: EirSport 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/65068
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: EirSport 2 FHD
-http://niobzca.cf:8080/francis1234/francis1234/115579
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: EirSport 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/65067
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sport 1 HD (PT)
-http://niobzca.cf:8080/francis1234/francis1234/140845
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sport 2 HD (PT)
-http://niobzca.cf:8080/francis1234/francis1234/140846
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sport 3 HD (PT)
-http://niobzca.cf:8080/francis1234/francis1234/140847
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sport 4 HD (PT)
-http://niobzca.cf:8080/francis1234/francis1234/140848
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sport 5 HD (PT)
-http://niobzca.cf:8080/francis1234/francis1234/140849
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sport 6 HD (PT)
-http://niobzca.cf:8080/francis1234/francis1234/140850
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 1 (Belgium NL)
-http://niobzca.cf:8080/francis1234/francis1234/124716
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 1 (FR)
-http://niobzca.cf:8080/francis1234/francis1234/139510
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 1 (NL)
-http://niobzca.cf:8080/francis1234/francis1234/139513
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 1 (PL)
-http://niobzca.cf:8080/francis1234/francis1234/139516
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 1 (THAI)
-http://niobzca.cf:8080/francis1234/francis1234/139519
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/130333
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 1 HD (UK)
-http://niobzca.cf:8080/francis1234/francis1234/124390
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 1 Taiwan
-http://niobzca.cf:8080/francis1234/francis1234/143773
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 2 (Belgium NL)
-http://niobzca.cf:8080/francis1234/francis1234/124718
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 2 (FR)
-http://niobzca.cf:8080/francis1234/francis1234/139511
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 2 (NL)
-http://niobzca.cf:8080/francis1234/francis1234/139514
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 2 (PL)
-http://niobzca.cf:8080/francis1234/francis1234/139517
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 2 (THAI)
-http://niobzca.cf:8080/francis1234/francis1234/139520
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/65064
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 2 HD (UK)
-http://niobzca.cf:8080/francis1234/francis1234/124719
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 2 Taiwan
-http://niobzca.cf:8080/francis1234/francis1234/143774
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 3 (Belgium NL)
-http://niobzca.cf:8080/francis1234/francis1234/124720
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 3 (FR)
-http://niobzca.cf:8080/francis1234/francis1234/139512
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 3 (NL)
-http://niobzca.cf:8080/francis1234/francis1234/139515
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS 3 (PL)
-http://niobzca.cf:8080/francis1234/francis1234/139518
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 3 (Poland)
-http://niobzca.cf:8080/francis1234/francis1234/124721
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 3 HD
-http://niobzca.cf:8080/francis1234/francis1234/130336
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (ONLINE) SPORT: Eleven Sports 4 HD
-http://niobzca.cf:8080/francis1234/francis1234/66079
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 5 HD
-http://niobzca.cf:8080/francis1234/francis1234/130337
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports 6 HD
-http://niobzca.cf:8080/francis1234/francis1234/130338
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eleven Sports Prime Taiwan
-http://niobzca.cf:8080/francis1234/francis1234/143775
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ELEVEN SPORTS PRIME TICKET (THAI)
-http://niobzca.cf:8080/francis1234/francis1234/139521
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ESPN 2
-http://niobzca.cf:8080/francis1234/francis1234/126127
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ESPN 3
-http://niobzca.cf:8080/francis1234/francis1234/126123
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: ESPN U
-http://niobzca.cf:8080/francis1234/francis1234/126126
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eurosport 1 FHD (UK)
-http://niobzca.cf:8080/francis1234/francis1234/94786
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eurosport 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/65014
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Eurosport 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/64985
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Flow Sports 1 HD
-http://niobzca.cf:8080/francis1234/francis1234/74941
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Foot+
-http://niobzca.cf:8080/francis1234/francis1234/142752
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Futbol 1 HD (UKR)
-http://niobzca.cf:8080/francis1234/francis1234/115558
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Futbol 2 FHD (UKR)
-http://niobzca.cf:8080/francis1234/francis1234/115559
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: GOLF FHD
-http://niobzca.cf:8080/francis1234/francis1234/112043
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: GOLF HD
-http://niobzca.cf:8080/francis1234/francis1234/112044
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Infosport+
-http://niobzca.cf:8080/francis1234/francis1234/142753
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: KBS SPORTS (KOR)
-http://niobzca.cf:8080/francis1234/francis1234/115554
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Lig TV1
-http://niobzca.cf:8080/francis1234/francis1234/142754
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Lig TV2
-http://niobzca.cf:8080/francis1234/francis1234/142755
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Lig TV3
-http://niobzca.cf:8080/francis1234/francis1234/142756
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Liverpool FC TV
-http://niobzca.cf:8080/francis1234/francis1234/64983
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: LONGHORN NETWORK
-http://niobzca.cf:8080/francis1234/francis1234/126128
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Manchester United FC FHD
-http://niobzca.cf:8080/francis1234/francis1234/64982
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Manchester United FC HD
-http://niobzca.cf:8080/francis1234/francis1234/108657
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: MBC SPORTS (KOR)
-http://niobzca.cf:8080/francis1234/francis1234/115555
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Moviestar F1
-http://niobzca.cf:8080/francis1234/francis1234/142771
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: MUTV
-http://niobzca.cf:8080/francis1234/francis1234/140347
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: PPTV SPORTS (THAI)
-http://niobzca.cf:8080/francis1234/francis1234/124715
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Premium Sport
-http://niobzca.cf:8080/francis1234/francis1234/124906
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Racing
-http://niobzca.cf:8080/francis1234/francis1234/126130
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: RACING UK FHD
-http://niobzca.cf:8080/francis1234/francis1234/133306
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Real Madrid TV
-http://niobzca.cf:8080/francis1234/francis1234/142773
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: RMC Sport 2
-http://niobzca.cf:8080/francis1234/francis1234/142744
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: RMC Sport 5
-http://niobzca.cf:8080/francis1234/francis1234/142745
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SBS GOLF (KOR)
-http://niobzca.cf:8080/francis1234/francis1234/115556
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SBS SPORTS (KOR)
-http://niobzca.cf:8080/francis1234/francis1234/115557
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (ONLINE) SPORT: Sky Sport 1
-http://niobzca.cf:8080/francis1234/francis1234/142777
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sport 2 HD
-http://niobzca.cf:8080/francis1234/francis1234/96991
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sport 3 HD
-http://niobzca.cf:8080/francis1234/francis1234/124010
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sky Sport 5 HD
-http://niobzca.cf:8080/francis1234/francis1234/124012
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Skynet Sports 1
-http://niobzca.cf:8080/francis1234/francis1234/74627
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKYNET SPORTS 1 (MY)
-http://niobzca.cf:8080/francis1234/francis1234/74630
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Skynet Sports 2
-http://niobzca.cf:8080/francis1234/francis1234/121817
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Skynet Sports 3
-http://niobzca.cf:8080/francis1234/francis1234/74629
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SkyNet Sports 4
-http://niobzca.cf:8080/francis1234/francis1234/114868
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKYNET SPORTS 5 (MY)
-http://niobzca.cf:8080/francis1234/francis1234/121816
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SKYNET SPORTS HD
-http://niobzca.cf:8080/francis1234/francis1234/126211
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport 1 Extra 1
-http://niobzca.cf:8080/francis1234/francis1234/142796
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport 1 Extra 2
-http://niobzca.cf:8080/francis1234/francis1234/142797
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport 1 Racing
-http://niobzca.cf:8080/francis1234/francis1234/142795
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport 1 Voetbal
-http://niobzca.cf:8080/francis1234/francis1234/142793
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport TV 1
-http://niobzca.cf:8080/francis1234/francis1234/142779
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport TV 2
-http://niobzca.cf:8080/francis1234/francis1234/142780
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport TV 3
-http://niobzca.cf:8080/francis1234/francis1234/142781
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport TV 4
-http://niobzca.cf:8080/francis1234/francis1234/142782
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Sport TV2 (PT)
-http://niobzca.cf:8080/francis1234/francis1234/111174
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SPORTSMAX 2 MAIN
-http://niobzca.cf:8080/francis1234/francis1234/140859
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SPORTSMAX CRICKET MAIN
-http://niobzca.cf:8080/francis1234/francis1234/140860
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SPORTSMAX MAIN
-http://niobzca.cf:8080/francis1234/francis1234/140858
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: SportTV5
-http://niobzca.cf:8080/francis1234/francis1234/142732
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: TELECOM Sport 1
-http://niobzca.cf:8080/francis1234/francis1234/111175
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Tivibu Spor 1
-http://niobzca.cf:8080/francis1234/francis1234/142757
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Tivibu Spor 2
-http://niobzca.cf:8080/francis1234/francis1234/142758
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Tivibu Spor 3
-http://niobzca.cf:8080/francis1234/francis1234/142759
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Tivibu Spor 4
-http://niobzca.cf:8080/francis1234/francis1234/142760
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: UK SkyNet Sports 6
-http://niobzca.cf:8080/francis1234/francis1234/74632
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Viasat Futboll
-http://niobzca.cf:8080/francis1234/francis1234/142774
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: VOO SPORT 1
-http://niobzca.cf:8080/francis1234/francis1234/136387
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: VOO SPORT 2
-http://niobzca.cf:8080/francis1234/francis1234/136388
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: VOO SPORT 3
-http://niobzca.cf:8080/francis1234/francis1234/136389
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", (DOUBTFUL) SPORT: Willow HD
-http://niobzca.cf:8080/francis1234/francis1234/95366
+#EXTINF:-1,TV 5
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
